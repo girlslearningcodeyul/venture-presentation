@@ -342,7 +342,8 @@ img.right, iframe.right {
 }
 
 .slide .logo-stacked {
-    width: 150px
+    width: 350px;
+    position:center;
 }
 
 #indicator {
