@@ -103,7 +103,8 @@ iframe {
 }
 
 ol>li, ul>li {
-    margin-bottom: 6px
+    margin: 50px;
+
 }
 
 ol ol, ol ul, ul ol, ul ul {
